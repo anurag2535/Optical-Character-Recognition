@@ -12,6 +12,10 @@ Using OCR, we can read texts from any printed material and using cloud technolog
 We really have a huge group of people who need our assistance so why not take a step and make the change we want to see. 
 
 
+Currently we are using computer vision to help a blind person walk on road independently. Suppose a blind person is moving on a road on normal daylight then with the help of light intensity we can find the distance of objects near to that blind person and then the movements of that person can be further decided using machine learning technology. 
+
+Possibilities are limitless....
+
 References:  
 1) www.bbc.com/news/health-40806253 
 2) https://en.wikipedia.org/wiki/Near-sightedness 
